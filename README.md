@@ -15,8 +15,8 @@ This repository contains two services:
 #### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MasterHach/WEB_BASIS_TECH.git
-   cd fastapi_alex
+   git clone https://github.com/MasterHach/WEB_BASIS_FASTAPI.git
+   cd WEB_BASIS_FASTAPI
    ```
 
 2. Install dependencies:
