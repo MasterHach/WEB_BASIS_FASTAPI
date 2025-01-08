@@ -90,7 +90,7 @@ This repository contains two services:
 - View statistics (click count)
 - List top clicked URLs
 
-##DOCKER HUB LINKS
+## DOCKER HUB LINKS
 - https://hub.docker.com/r/alex0sandro/shorturl-service
 - https://hub.docker.com/r/alex0sandro/todo-service
 - https://hub.docker.com/u/alex0sandro
