@@ -89,3 +89,9 @@ This repository contains two services:
 - Redirect to original URLs
 - View statistics (click count)
 - List top clicked URLs
+
+##DOCKER HUB LINKS
+- https://hub.docker.com/r/alex0sandro/shorturl-service
+- https://hub.docker.com/r/alex0sandro/todo-service
+- https://hub.docker.com/u/alex0sandro
+- https://hub.docker.com/repositories/alex0sandro
